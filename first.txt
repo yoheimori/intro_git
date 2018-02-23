@@ -3,3 +3,4 @@
 git add
 git commit
 git rmS
+git status
